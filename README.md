@@ -1,11 +1,9 @@
-<h1 align="center">Dhrubojyoti Saha</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=Dhrubojyoti%20Saha&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=UI%2FUX%20Designer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Data%20Analyst&descSize=16&descAlignY=54&animation=fadeIn" alt="Dhrubojyoti Saha"/>
 
 <p align="center">
-  <b>UI/UX Designer</b> &nbsp;•&nbsp; <b>Frontend Developer</b> &nbsp;•&nbsp; <b>Data Analyst</b>
-</p>
-
-<p align="center">
-  Building modern digital experiences through design, code and data.
+  <a href="https://github.com/dhrubojyotii">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=6366F1&center=true&vCenter=true&width=620&height=40&lines=Designing+interfaces+that+feel+inevitable.;Shipping+React+that+matches+the+mockup.;Turning+raw+data+into+decisions." alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
@@ -24,73 +22,63 @@
   <a href="mailto:dhrubojyotisaha5@gmail.com">
     <img src="https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=dhrubojyotii&label=VISITORS&color=6366F1&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/dhrubojyotii?style=flat-square&color=6366F1&labelColor=1F2328&label=FOLLOWERS" alt="Followers"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhrubojyotii&label=Profile%20views&color=6366F1&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/dhrubojyotii?style=flat-square&color=6366F1&labelColor=1F2328" alt="Followers"/>
-</p>
+---
+
+## `01` &nbsp;System Profile
+
+```console
+$ whoami --verbose
+
+  OPERATOR ......  Dhrubojyoti Saha
+  LOCATION ......  West Bengal, India
+  ROLE ..........  UI/UX Designer  |  Frontend Developer  |  Data Analyst
+  FOCUS .........  SaaS product design · design systems · frontend engineering
+  LOADING .......  Next.js  ▓▓▓▓▓▓▓▓▓░  90%
+                   Advanced UI Engineering  ▓▓▓▓▓▓▓░░░  70%
+                   Data Analytics  ▓▓▓▓▓▓░░░░  60%
+  STATUS ........  ● online — open to freelance, internships & collaboration
+  CONTACT .......  dhrubojyotisaha5@gmail.com
+
+$ _
+```
+
+I work at the seam between interface design and implementation — turning product
+requirements into design systems, and design systems into production React interfaces.
+On the data side, I use Python and SQL to turn raw numbers into decisions teams can act on.
 
 ---
 
-## About
+## `02` &nbsp;Loadout
 
-Designer and frontend developer based in West Bengal, India. I work at the seam between
-interface design and implementation — turning product requirements into design systems,
-and design systems into production React interfaces. On the data side, I use Python and
-SQL to turn raw numbers into decisions teams can act on.
-
-|  |  |
-|---|---|
-| **Location** | West Bengal, India |
-| **Focus** | SaaS product design, design systems, frontend engineering |
-| **Currently learning** | Next.js, advanced UI engineering, data analytics |
-| **Open to** | Freelance work, internships, collaboration |
-| **Contact** | [dhrubojyotisaha5@gmail.com](mailto:dhrubojyotisaha5@gmail.com) |
-
----
-
-## Tech Stack
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96"><b>DESIGN</b></td>
+    <td><img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,framer&theme=dark" alt="Design tools"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>FRONTEND</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&theme=dark" alt="Frontend stack"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DATA</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,mysql,firebase&theme=dark" alt="Data stack"/> <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,sklearn" height="48" alt="pandas, scikit-learn"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>TOOLS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools"/></td>
+  </tr>
+</table>
 
 ---
 
-## Featured Projects
+## `03` &nbsp;Deployed Units
 
-| Project | Description | Stack |
+| Unit | Description | Stack |
 |---|---|---|
 | **Fastgistics** | Modern logistics SaaS platform — dashboard, tracking and ops tooling | React · TypeScript · Tailwind |
 | **Crazy Build** | Official site for a 36-hour national hackathon | Next.js · Framer Motion |
@@ -99,7 +87,7 @@ SQL to turn raw numbers into decisions teams can act on.
 
 ---
 
-## GitHub Activity
+## `04` &nbsp;Telemetry
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhrubojyotii&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=808080" alt="GitHub stats"/>
@@ -116,10 +104,28 @@ SQL to turn raw numbers into decisions teams can act on.
 
 ---
 
-<p align="center">
-  <i>"Great design is invisible. Great user experience is unforgettable."</i>
-</p>
+## `05` &nbsp;Contribution Drive
 
 <p align="center">
-  <sub>Designed and maintained by Dhrubojyoti Saha</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhrubojyotii/dhrubojyotii/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhrubojyotii/dhrubojyotii/output/snake.svg"/>
+    <img width="94%" src="https://raw.githubusercontent.com/dhrubojyotii/dhrubojyotii/output/snake.svg" alt="Contribution snake animation"/>
+  </picture>
 </p>
+
+---
+
+## `06` &nbsp;Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhrubojyotii&theme=discord&column=4&margin-w=12&margin-h=12&no-frame=true&no-bg=true" alt="Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=6366F1&center=true&vCenter=true&width=640&height=34&lines=%22Great+design+is+invisible.;Great+user+experience+is+unforgettable.%22" alt="Quote"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24&reversal=true" alt=""/>
